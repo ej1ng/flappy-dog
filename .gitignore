@@ -1,0 +1,10 @@
+/Library/
+/Temp/
+/Builds/
+*.csproj
+*.sln
+*.userprefs
+*.unityproj
+.DS_Store
+*.exe
+*.app
